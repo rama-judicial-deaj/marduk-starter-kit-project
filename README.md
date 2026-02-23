@@ -86,12 +86,11 @@ src/
 
 This project uses the [ docs/):
 
-- **Endpoint for Summary Data**: `/ /{country}`
+- **Endpoint for Summary Data**: `/ /{appservice}`
 - **Endpoint for Historical Data**: `/v3/ }?lastdays=30`
 
 ## Future Enhancements
 
-- Add support for more granular data (e.g., cities or districts).
 - Include additional visualizations like bar charts or pie charts.
 - Implement a search feature for faster location selection.
 - Add dark mode for better user experience.
